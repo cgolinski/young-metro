@@ -1,0 +1,19 @@
+Title
+
+Question
+
+Button
+	- generates random yes/no funny answer from JSON file
+
+
+Use jQuery
+
+
+--- Questions for Rob ---
+
+1) Button outline set to 0, but this is not accessible. How to make it accessible, so use can use tab to get around screen instead of mouse, but not have outline show?
+
+2) Did the following. Did not npm install anything else. Is this correct?
+	   npm install jquery
+
+3) How to connect JSON to js through server?
