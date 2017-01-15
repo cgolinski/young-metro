@@ -1,12 +1,7 @@
-Title
+--- To Do ---
 
-Question
+- add more padding in button and re-adjust spacing;
 
-Button
-	- generates random yes/no funny answer from JSON file
-
-
-Use jQuery
 
 
 --- Questions for Rob ---
@@ -15,7 +10,3 @@ Use jQuery
 
 2) Did the following. Did not npm install anything else. Is this correct?
 	   npm install jquery
-
-3) How to connect JSON to js through server?
-
-4) Why isn't my jQuery button working?
