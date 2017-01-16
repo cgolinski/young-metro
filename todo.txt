@@ -1,6 +1,9 @@
 --- To Do ---
 
-- add more padding in button and re-adjust spacing;
+- add more padding in button and re-adjust spacing
+- cross browser test: safari, chrome, firefox, IE 11 & edge
+- install npm... npm install -y?
+- change hover / target style
 
 
 
