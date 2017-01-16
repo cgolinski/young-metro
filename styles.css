@@ -24,6 +24,7 @@ h1.question {
 	text-transform: uppercase;	
 	font-size: 24px;
   font-weight: 100;
+  -webkit-font-smoothing: subpixel-antialiased;
   font-family: "Helvetica Neue";
   color: #82746a;
 	/*text-shadow: 0px 10px 1px #342c25, 0px 20px 1px #2d281d;*/
@@ -66,7 +67,8 @@ body h1.question.page2 {
 	position: absolute;
 	top: 10%;
 	transition: opacity 1s;
-	margin-left: -25px;
+	margin-left: -207px;
+	left: 50%;
 }
 
 body.withAnswer h1.question.page2 {
