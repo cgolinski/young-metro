@@ -1,8 +1,9 @@
 --- To Do ---
 
+- style answers for media: phone 
+
 - add more padding in button and re-adjust spacing
 - cross browser test: safari, chrome, firefox, IE 11 & edge
-- install npm... npm install -y?
 - change hover / target style
 - cross device test
 - IE: 

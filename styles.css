@@ -128,3 +128,61 @@ body.withAnswer #response p {
 #response p:after {
 	content: '\201D';
 }
+
+
+@media (max-width: 780px) {
+	#main {
+		display: flex;
+		flex-direction: column;
+	}
+
+	h1.question.page1 {
+		position: static;
+		display: block;
+		animation-name: none;
+		margin: 0 0 6px 0;
+		padding: 0;
+		word-spacing: 999999px;
+		text-align: center; 
+	}
+
+	#theButton {
+	  margin: 0;
+	  position: static;
+	  transition: top 1s;
+	}
+
+	#response p {
+	  display: none;
+	}
+
+	body.withAnswer h1.question.page1 {
+		display: none;	
+	}
+
+	body h1.question.page2 {
+		top: 10px;
+		right: 0;
+		left: 45px;
+		max-width: 230px;
+		text-align: center;
+	}
+
+	body.withAnswer #theButton {
+		position: absolute;
+		top: 15%;
+		left: 44%;
+	  margin: 0;
+	}
+
+	body.withAnswer #response p {
+	  display: block;
+	}
+}
+
+
+
+
+
+
+
