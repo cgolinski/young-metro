@@ -1,20 +1,18 @@
 --- To Do ---
 
-- style answers for media: phone 
 
-- add more padding in button and re-adjust spacing
 - cross browser test: safari, chrome, firefox, IE 11 & edge
-- change hover / target style
 - cross device test
 - IE: 
 	set alternate font - helvetica / arial
 	height glitch -- page becomes taller and scroll bar appears when question is rotating
 	question should be right aligned and the margin right to bring closer to ?
+- add more padding in button and re-adjust spacing
+- when one line question, vertically center answer
+
 
 
 --- Questions for Rob ---
 
-1) Button outline set to 0, but this is not accessible. How to make it accessible, so use can use tab to get around screen instead of mouse, but not have outline show?
-
-2) Did the following. Did not npm install anything else. Is this correct?
+1) Did the following. Did not npm install anything else. Is this correct?
 	   npm install jquery
