@@ -90,10 +90,12 @@ body.withAnswer h1.question.page2 {
   top: 50%;
   left: 50%;
   margin: -20px 0 0 -20px;
+  padding: 0;
   position: absolute;
   text-shadow: none;
   box-shadow: none; 
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
   transition: top 1s, left 1s, text-shadow 0.3s, box-shadow 0.3s, margin 1s;
 }
 
