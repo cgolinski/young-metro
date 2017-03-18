@@ -8,17 +8,17 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node start.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spicychickpeas/young-metro.git"
+    "url": "git+https://github.com/cgolinski/young-metro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spicychickpeas/young-metro/issues"
+    "url": "https://github.com/cgolinski/young-metro/issues"
   },
-  "homepage": "https://github.com/spicychickpeas/young-metro#readme"
+  "homepage": "https://github.com/cgolinski/young-metro#readme"
 }
