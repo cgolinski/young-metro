@@ -7,5 +7,6 @@ Freelance project for viral marketing campaign. Responsive site using CSS transi
 To run:
 
 ```
+npm install
 npm start
 ```
