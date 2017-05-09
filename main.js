@@ -1,10 +1,9 @@
-
 $(document).ready(function() {
   var button = $('#theButton');
-	console.log('document ready jquery is working')
+	console.log('document ready jquery is working');
 
 	button.click(function() {
-	  var possibleAnswers = ['Yes. Bruh your mixtape is lit.', 'Nah bruh. Tell your children you love them and move to Mexico.', 'answer 3', 'Nah bruh. Tell your children you love them and move to Mexico.Nah bruh. Tell your children you love them and move to Mexico.Nah bruh. Tell your children you love them and move to Mexico.Nah bruh. Tell your children you love them and move to Mexico.'];
+	  var possibleAnswers = ['Yes. Bruh your mixtape is lit.', 'Nah bruh. Tell your children you love them and move to Mexico.', 'Maaaaaybe.', 'Get outta here.', 'As far you can be thrown. Go try it. Tell me how far you fly.', 'Does a cat sleep 16 hours a day?', 'You\'ll never know.', 'Ask again.'];
 	  var answer = Math.floor(Math.random() * (possibleAnswers.length - 0) + 0);
 
 	  renderAnswer(possibleAnswers[answer]);
